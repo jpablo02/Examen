@@ -1,0 +1,1 @@
+lo visto en la clase anterios fue : ramas, como ignorar archivos para no ser comprometidos en el area de trabajo
